@@ -1,0 +1,6 @@
+[project]
+name = "calendario-ortodoxo"
+version = "0.1.0"
+description = "Calendário da Igreja Ortodoxa em português brasileiro"
+requires-python = ">=3.12"
+dependencies = []
